@@ -27,12 +27,15 @@ With increasing global emphasis on sustainable energy, businesses need a **trust
 ## Project Demonstration
 
 ### 1) Dashboard
-![image](https://github.com/user-attachments/assets/08a99da0-af15-4708-8182-71093e0929bf)
+![image](https://github.com/user-attachments/assets/3b5cc2ad-0bb5-4113-b43c-1c6b4f120b88)
+
 <img width="623" alt="image" src="https://github.com/user-attachments/assets/2b8db1a7-aedc-4756-8465-1d6997159933" />
 
 ### 2) Trading Platform
-![image](https://github.com/user-attachments/assets/e4d2b384-3755-4093-9e26-25953b69c93a)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/5dc3fd01-df09-4fc1-ba24-0da7688b1a1f)
+
+<img width="775" alt="image" src="https://github.com/user-attachments/assets/6de618b7-7728-438c-941e-156b316e1db6" />
+
 
 
 
