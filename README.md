@@ -11,7 +11,7 @@
 
 ---
 
-# Near-EAC:EAC Marketplace
+# GreenLedger:EAC Marketplace
 
 ## 🏆 DevsHouse'24 Hackathon – Rank 4
 This project was developed as part of **DevsHouse'24 Hackathon **, where it secured **4th place**. The hackathon challenged participants to build solutions that enhance transparency and trust in decentralized ecosystems. GreenLedger addresses this challenge by providing a **Cryptography-based Energy Attribute Certificate (EAC) marketplace**, ensuring secure, verifiable, and automated renewable energy tracking and trading.
