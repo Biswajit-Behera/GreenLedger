@@ -9,6 +9,8 @@
 - Unit & Integration Tests
 - Burn Functionality
 
+---
+
 # Near-EAC:EAC Marketplace
 
 ## 🏆 DevsHouse'24 Hackathon – Rank 4
@@ -22,6 +24,17 @@ With increasing global emphasis on sustainable energy, businesses need a **trust
 - **Integrates IoT-based tracking** with **Fiware Context Broker & Spark Service** for real-time, automated energy verification.
 - **Enables decentralized trading** of I-REC certificates through an order book-style exchange using **NEAR Protocol smart contracts**.
 - **Lays groundwork** for future expansion, including **multi-token standards (ERC-1155, ERC-1888)** and **decentralized identities (DIDs) for automated certification**.
+## Project Demonstration
+
+### 1) Dashboard
+![image](https://github.com/user-attachments/assets/08a99da0-af15-4708-8182-71093e0929bf)
+<img width="623" alt="image" src="https://github.com/user-attachments/assets/2b8db1a7-aedc-4756-8465-1d6997159933" />
+
+### 2) Trading Platform
+![image](https://github.com/user-attachments/assets/e4d2b384-3755-4093-9e26-25953b69c93a)
+![Uploading image.png…]()
+
+
 
 ## Requirements 🛠️
 - **Node.js** v16.14.0
